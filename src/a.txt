@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaa
+=======
+aaa
+>>>>>>> parent of 1fcc7f8 (a.txt 파일 수정)
